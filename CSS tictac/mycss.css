@@ -1,0 +1,65 @@
+body{
+	font-family: 'Crimson Text', serif;
+}
+
+h1{
+	width: 500px;
+	border: 0px solid blue;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.cen{
+	width : 50%;
+	border: 0px solid blue;
+	/*This centers the div*/
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table{
+	/*This centers the TABLE INSIDE the div*/
+	width : auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+table tr td:nth-child(2)
+{
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+}
+
+table tr:nth-child(2) td
+{
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+}
+
+td {
+	/*Content*/
+	width : 100px;
+	height: 100px;
+	text-align: center;
+
+	/*Padding*/
+	padding : 5;
+
+	/*Border
+	border:3px solid blue;
+	*/
+
+	/*Margin*/
+	margin: 0 0 0 0;
+}
+
+.bottom {
+	position: fixed;     
+	text-align: center;    
+	bottom: 0px; 
+	width: 100%;
+    border : 0px solid red;
+}
