@@ -14,7 +14,7 @@ JS Libraries: PaperJS (Animations), HowlerJS (Sound)
 
 Link : https://neuropatatap.netlify.com
 
-##) 3) JQuery To Do 
+## 3) JQuery To Do 
 A To Do application made with the help of JQuery. Hit enter to add event. Check event on clicking and delete by clicking the bin  
 JS Features: JQuery, Form Data handling, CSS Animations, Data deletion
 
